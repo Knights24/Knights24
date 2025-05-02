@@ -1,89 +1,85 @@
-<h1 align="center">Hi there, I'm Vivek Vishwakarma 👋</h1>
+<h1 align="center">Hi 👋, I'm VIVEK VISHWAKARMA</h1>
+<h3 align="center">Frontend & Game Developer | Passionate about AI, Design & Immersion</h3>
 
-<p align="center">
-  <b>Passionate Developer | Game & Tech Enthusiast | Based in Ahmedabad, Gujarat 🇮🇳</b><br>
-  I love bringing ideas to life through <code>code</code> and <code>coffee</code>. Let's build something awesome together!
+- 🔭 Currently building **NVV**, **Astra's Legacy**, and **IntraKart**
+- 🌱 Exploring **Unreal Engine 5**, **Generative AI**, and **Cloud Full-stack**
+- 🎯 Focused on **Game Dev + AI + Immersive UX**
+- 📧 Reach me at: **vivekvishwakarma21@outlook.com**
+
+---
+
+### 🧩 Notable Projects
+
+- 🎮 **Astra's Legacy** – UE5 RPG with AI combat & dynamic quest system (C++)
+- 🏡 **IntraKart** – Interior design app with AR scanning, VR preview, and AI suggestions
+- 🤖 [Jarvis](https://github.com/Knights24/Jarvis) – Python AI voice assistant & automation tool
+- 📅 [ISTE-PRARAMBH25](https://github.com/Knights24/ISTE-PRARAMBH25) – Event platform in TypeScript
+- 🧾 [C](https://github.com/Knights24/C) – Core programming examples in C
+- 💼 [Knights24](https://github.com/Knights24/Knights24) – Profile & portfolio repo
+
+---
+
+### 🔗 Connect With Me
+
+<p align="left">
+  <a href="mailto:vivekvishwakarma21@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/viveks21/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Knights24"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🚀 About Me
+### 🛠️ Tech Stack
 
-I'm a curious, innovative, and self-driven developer who enjoys exploring new technologies and building real-world solutions. I specialize in game development, AI integrations, and full-stack web development. Currently diving deep into Unreal Engine 5, generative AI, and building cloud-powered applications like **IntraKart** and **Astra's Legacy**.
-
----
-
-## 🛠️ Skills & Technologies
-
-<div align="center">
-
-![C](https://img.shields.io/badge/-C-000?&logo=C&logoColor=A8B9CC)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=fff)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?&logo=css3&logoColor=fff)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?&logo=nodedotjs&logoColor=fff)
-![React](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=000)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?&logo=vue.js&logoColor=fff)
-![Flask](https://img.shields.io/badge/-Flask-000000?&logo=flask)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&logo=mysql&logoColor=fff)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=docker&logoColor=fff)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?&logo=amazon-aws)
-![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github&logoColor=fff)
-![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?&logo=unrealengine&logoColor=white)
-![Blender](https://img.shields.io/badge/-Blender-F5792A?&logo=blender&logoColor=white)
-
-</div>
-
----
-
-## 🌟 Top Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [💼 Knights24](https://github.com/Knights24/Knights24) | My profile repository showcasing personal projects and experiments | Markdown |
-| [🎉 ISTE-PRARAMBH25](https://github.com/Knights24/ISTE-PRARAMBH25) | A collaborative project for an event website with TypeScript support | TypeScript |
-| [🤖 Jarvis](https://github.com/Knights24/Jarvis) | Python-based AI assistant under development | Python |
-| [📘 C](https://github.com/Knights24/C) | Collection of C programs and learning exercises | C |
-| 🌌 **Astra's Legacy** *(Private Repo)* | An adventure RPG built in Unreal Engine 5 with C++, featuring immersive environments and dynamic AI | C++, Unreal Engine 5 |
-| 🛋️ **IntraKart** *(In Progress)* | A cloud-based interior design app with AI-powered suggestions, AR/VR visualization, drag & drop design, and budget planner | React, Node.js, AWS, AR/VR, Generative AI |
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Knights24&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Knights24&layout=compact&theme=radical" width="48%" />
+#### Languages
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Knights24&theme=algolia&row=1" />
+#### Frontend & UI
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white"/>
+</p>
+
+#### Backend & Databases
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+</p>
+
+#### Tools & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
+</p>
+
+#### AI, Game & Graphics
+<p>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat&logo=unrealengine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white"/>
 </p>
 
 ---
 
-## 🕹️ Recent Activity
+### 📊 GitHub Stats
 
-- 🗂️ Created repository [ISTE-PRARAMBH25](https://github.com/Knights24/ISTE-PRARAMBH25) – *April 3, 2025*
-- ✍️ Pushed updates to [Jarvis](https://github.com/Knights24/Jarvis) – *March 29, 2025*
-- 📘 Created repository [C](https://github.com/Knights24/C) – *October 26, 2024*
-
----
-
-## 📝 Latest Blog Posts
-
-> 🚧 *Coming soon...* Stay tuned for technical blogs, dev logs, and tutorials!
-
----
-
-## 🤝 Connect with Me
-
-<p align="center">
-  <a href="mailto:vivekv.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/vivekvishwakarma24/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Knights24"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=knights24&show_icons=true&locale=en&layout=compact" alt="knights24" />
 </p>
-
----
-
-> *Crafted with ❤️ by Vivek Vishwakarma*
