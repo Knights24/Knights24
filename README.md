@@ -6,10 +6,6 @@
 ---
 
 ### 🧩 Notable Projects
-- 🤖 [Jarvis](https://github.com/Knights24/Jarvis) – Python AI voice assistant & automation tool
-- 📅 [ISTE-PRARAMBH25](https://github.com/Knights24/ISTE-PRARAMBH25) – Event platform in TypeScript
-- 🧾 [C](https://github.com/Knights24/C) – Core programming examples in C
-- 💼 [Knights24](https://github.com/Knights24/Knights24) – Profile rep        
 
 ### 📊 GitHub Stats
 
