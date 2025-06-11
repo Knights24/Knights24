@@ -27,14 +27,6 @@
 
 ---
 
-## 📸 App Preview (Coming Soon)
-
-| Home Page | Booking Flow | Map Integration |
-|:---------:|:------------:|:---------------:|
-| ![home](https://via.placeholder.com/300x600?text=Home+Screen) | ![booking](https://via.placeholder.com/300x600?text=Booking+Screen) | ![map](https://via.placeholder.com/300x600?text=Map+Screen) |
-
----
-
 ## 💻 Tech Stack
 
 - **Frontend:** Flutter 3.x  
@@ -45,20 +37,8 @@
 
 ---
 
-## 🛡 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-## 💬 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/your-profile)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-red?logo=instagram)](https://www.instagram.com/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?logo=google-chrome)](https://yourportfolio.com)
-
-
-
 
 ### 📊 GitHub Stats
 
