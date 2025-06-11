@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm VIVEK VISHWAKARMA</h1>
-<h3 align="center">Frontend & Game Developer | Passionate about AI, Design & Immersion</h3>
+<h3 align="center">AI/ML & Game Developer | Passionate about AI, Design & Immersion</h3>
 
 - 📧 Reach me at: **vivekvishwakarma21@outlook.com**
 
