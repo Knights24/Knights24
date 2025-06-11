@@ -1,11 +1,10 @@
-# Hi, I'm Vivek Vishwakarma 👋
-
+# Hi, I'm Vivek Vishwakarma 
 Aspiring **AI/ML Engineer** · **Flutter Developer** · **Tech Lead & Video Editor**  
 Passionate about Real-World Solutions & Intelligent Systems
 
 ---
 
-### 🚀 About Me
+###  About Me
 - 🎯 Building **Fixzo** – a smart home service app  
 - 📚 Learning **AI/ML**, **DSA**, and **Backend Development**
 - 💻 Developing cross-platform apps using **Flutter**
@@ -15,7 +14,7 @@ Passionate about Real-World Solutions & Intelligent Systems
 
 ---
 
-### 🛠️ Current Project
+###  Current Project
 - 🔧 **Fixzo App** – Nearby home services (plumbing, electrical, etc.)  
   - Frontend: **Flutter**  
   - Backend: **Node.js + MongoDB**  
@@ -23,7 +22,7 @@ Passionate about Real-World Solutions & Intelligent Systems
 
 ---
 
-### 🧠 Technical & Leadership Skills
+###  Technical & Leadership Skills
 - 👨‍💻 **Technical Head** Experience  
   - Leading college tech teams  
   - Managing projects from idea to deployment  
@@ -35,7 +34,7 @@ Passionate about Real-World Solutions & Intelligent Systems
 
 ---
 
-### 🧰 Tech Stack
+###  Tech Stack
 - **Languages:** Dart, JavaScript, Python, C++  
 - **Frontend:** Flutter  
 - **Backend:** Node.js, Express  
@@ -45,7 +44,7 @@ Passionate about Real-World Solutions & Intelligent Systems
 
 ---
 
-### 📫 Contact
+###  Contact
 - ✉️ Email: vivekvishwakarma.dev@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vivekvishwakarma-dev)
 
