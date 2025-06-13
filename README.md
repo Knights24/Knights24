@@ -1,54 +1,58 @@
-# Hi, I'm Vivek Vishwakarma 
-Aspiring **AI/ML Engineer** · **Flutter Developer** · **Tech Lead & Video Editor**  
-Passionate about Real-World Solutions & Intelligent Systems
+# Hi, I'm Vivek Vishwakarma
 
-
-###  About Me
-- 🎯 Building **Fixzo** – a smart home service app  
-- 📚 Learning **AI/ML**, **DSA**, and **Backend Development**
-- 💻 Developing cross-platform apps using **Flutter**
-- 🤖 Exploring intelligent systems, automation, and AI assistants
-- 🧠 Strong in project leadership, innovation, and team collaboration  
-- 🌱 Open to internships in **AI**, **Flutter**, and **Tech Leadership Roles**
+**Aspiring AI/ML Engineer** · **Flutter Developer** · **Tech Lead & Video Editor**  
+Focused on building intelligent, real-world digital solutions 🚀
 
 ---
 
-###  Current Project
-- 🔧 **Fixzo App** – Nearby home services (plumbing, electrical, etc.)  
-  - Frontend: **Flutter**  
-  - Backend: **Node.js + MongoDB**  
-  - Features: Real-time booking · Location-based search · Clean UI (inspired by Zepto/Zomato)
+### 🧠 About Me
+- 🛠️ Currently building **Fixzo** – a smart, real-time home services app
+- 📚 Learning and applying **AI/ML**, **DSA**, and **Backend Engineering**
+- 💻 Passionate about **Flutter** for cross-platform development
+- 🤖 Exploring intelligent assistants and automated systems
+- 👥 Known for team leadership, innovative thinking & strong execution
+- 🔍 Open to internships in **AI**, **App Dev**, and **Tech Leadership**
 
 ---
 
-###  Technical & Leadership Skills
-- 👨‍💻 **Technical Head** Experience  
-  - Leading college tech teams  
-  - Managing projects from idea to deployment  
-  - Coordinating development, design, and testing
-- 🎬 **Video Editing**  
-  - Tools: Adobe Premiere Pro, After Effects, CapCut, Canva  
-  - Experience in event promotions, project teasers, content edits  
-  - Edited promotional content for technical fests and startups
-
-###  Tech Stack
-- **Languages:** Dart, JavaScript, Python, C++  
-- **Frontend:** Flutter  
-- **Backend:** Node.js, Express  
-- **Database:** MongoDB, Firebase  
-- **Tools:** Git, GitHub, VS Code, Figma  
-- **Creative Tools:** Adobe Premiere Pro, After Effects, Canva, CapCut
+### 📱 Current Project
+**Fixzo App** – Simplifying home service booking (like plumbing, electrical, carpentry)
+- Frontend: **Flutter**
+- Backend: **Node.js + MongoDB**
+- Features: Real-time booking · Google Maps integration · Zomato-style UI
 
 ---
 
-###  Contact
-- ✉️ Email: vivekvishwakarma.dev@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/vivekvishwakarma-dev)
+### 🛠️ Technical & Creative Skills
+#### 👨‍💻 Technical Lead
+- Leading college tech teams and hackathon squads
+- Driving projects from scratch to deployment
+- Cross-functional coordination: development, design, testing
+
+#### 🎮 Video Editing & Media Production
+- Tools: Adobe Premiere Pro, After Effects, CapCut, Canva
+- Content: Tech promos, event teasers, project showcases
+- Edited content for startups and campus fests
 
 ---
 
-### 📊 GitHub Stats
+### 💻 Tech Stack
+- **Languages:** Dart · Python · JavaScript · C++
+- **Frontend:** Flutter
+- **Backend:** Node.js · Express
+- **Database:** MongoDB · Firebase
+- **Tools:** Git · GitHub · VS Code · Figma
+- **Creative:** Premiere Pro · After Effects · Canva · CapCut
 
+---
+
+### 📢 Contact
+- ✉️ Email: vivekvishwakarma.dev@gmail.com
+- 🔗 LinkedIn: [linkedin.com/in/vivekvishwakarma-dev](https://www.linkedin.com/in/vivekvishwakarma-dev)
+
+---
+
+### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Knights24&show_icons=true&hide_title=true&hide_rank=true&hide=issues&theme=default" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Knights24&theme=default" height="150" />
@@ -56,5 +60,28 @@ Passionate about Real-World Solutions & Intelligent Systems
 
 ---
 
-### ⚡ Fun Fact  
-> Whether it's code or content, I love building experiences that feel smart, seamless, and real.
+### 🏗️ Tech & Tools Badges (Dark Theme)
+<p align="center">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" />
+  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white" />
+</p>
+
+---
+
+### ⚡ Fun Fact
+> I don’t just code – I craft solutions, shape experiences, and tell visual stories with tech.
