@@ -2,7 +2,6 @@
 Aspiring **AI/ML Engineer** · **Flutter Developer** · **Tech Lead & Video Editor**  
 Passionate about Real-World Solutions & Intelligent Systems
 
----
 
 ###  About Me
 - 🎯 Building **Fixzo** – a smart home service app  
