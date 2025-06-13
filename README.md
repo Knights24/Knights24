@@ -31,8 +31,6 @@ Passionate about Real-World Solutions & Intelligent Systems
   - Experience in event promotions, project teasers, content edits  
   - Edited promotional content for technical fests and startups
 
----
-
 ###  Tech Stack
 - **Languages:** Dart, JavaScript, Python, C++  
 - **Frontend:** Flutter  
