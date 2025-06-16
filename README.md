@@ -3,8 +3,6 @@
 **Aspiring AI/ML Engineer** · **Flutter Developer** · **Tech Lead & Video Editor**  
 Focused on building intelligent, real-world digital solutions 🚀
 
----
-
 ### 🧠 About Me
 - 🛠️ Currently building **Fixzo** – a smart, real-time home services app
 - 📚 Learning and applying **AI/ML**, **DSA**, and **Backend Engineering**
@@ -13,7 +11,6 @@ Focused on building intelligent, real-world digital solutions 🚀
 - 👥 Known for team leadership, innovative thinking & strong execution
 - 🔍 Open to internships in **AI**, **App Dev**, and **Tech Leadership**
 
----
 
 ### 📱 Current Project
 **Fixzo App** – Simplifying home service booking (like plumbing, electrical, carpentry)
