@@ -3,7 +3,7 @@
 **Aspiring AI/ML Engineer** · **Flutter Developer** · **Tech Lead & Video Editor**  
 Focused on building intelligent, real-world digital solutions 🚀
 
-### 🧠 About Me
+### About Me
 - 🛠️ Currently building **Fixzo** – a smart, real-time home services app
 - 📚 Learning and applying **AI/ML**, **DSA**, and **Backend Engineering**
 - 💻 Passionate about **Flutter** for cross-platform development
