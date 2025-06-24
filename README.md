@@ -12,7 +12,7 @@ Focused on building intelligent, real-world digital solutions 🚀
 - 🔍 Open to internships in **AI**, **App Dev**, and **Tech Leadership**
 
 
-### 📱 Current Project
+### Current Project
 **Fixzo App** – Simplifying home service booking (like plumbing, electrical, carpentry)
 - Frontend: **Flutter**
 - Backend: **Node.js + MongoDB**
