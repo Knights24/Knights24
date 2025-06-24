@@ -16,7 +16,7 @@ Focused on building intelligent, real-world digital solutions 🚀
 **Fixzo App** – Simplifying home service booking (like plumbing, electrical, carpentry)
 - Frontend: **Flutter**
 - Backend: **Node.js + MongoDB**
-- Features: Real-time booking · Google Maps integration · Zomato-style UI
+- Features: Real-time booking · Google Maps integration
 
 ---
 
