@@ -1,8 +1,7 @@
 # Hi, I'm Vivek Vishwakarma
 
-**Aspiring AI/ML Engineer** · **Flutter Developer** · **Tech Lead & Video Editor**  
-Focused on building intelligent, real-world digital solutions 🚀
-
+**Aspiring AI/ML Engineer** · **Game Developer** · **Tech Dept. Head at ISTE SAL**  
+Focused on building intelligent, real-world digital solutions 
 ### About Me
 - 🛠️ Currently building **Fixzo** – a smart, real-time home services app
 - 📚 Learning and applying **AI/ML**, **DSA**, and **Backend Engineering**
