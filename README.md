@@ -21,7 +21,7 @@ Focused on building intelligent, real-world digital solutions 🚀
 ---
 
 ###  Technical & Creative Skills
-#### 👨‍💻 Technical Lead
+#### Technical Lead
 - Leading college tech teams and hackathon squads
 - Driving projects from scratch to deployment
 - Cross-functional coordination: development, design, testing
