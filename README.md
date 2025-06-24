@@ -44,7 +44,7 @@ Focused on building intelligent, real-world digital solutions
 
 ### 📢 Contact
 - ✉️ Email: vivekvishwakarma.dev@gmail.com
-- 🔗 LinkedIn: [linkedin.com/in/vivekvishwakarma-dev](https://www.linkedin.com/in/vivekvishwakarma-dev)
+- 🔗 LinkedIn: [linkedin.com/in/vivekvishwakarma-dev](https://www.linkedin.com/in/viveks21)
 
 ---
 
