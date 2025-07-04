@@ -1,51 +1,48 @@
 # Hi, I'm Vivek Vishwakarma
 
 **Aspiring AI/ML Engineer** · **Game Developer** · **Tech Dept. Head at ISTE SAL**  
-Focused on building intelligent, real-world digital solutions 
+Focused on building intelligent, real-world digital solutions
+
+
 ### About Me
 - Currently building **IntraKart** – a smart, real-time interior services app
 - Exploring intelligent assistants and automated systems
 - Known for team leadership, innovative thinking & strong execution
-- 
---
 
+  
 ###  Technical & Creative Skills
+
 #### Technical Lead
 - Leading college tech teams and hackathon squads
 - Driving projects from scratch to deployment
 - Cross-functional coordination: development, design, testing
 
+  
 ####  Video Editing & Media Production
 - Tools: Adobe Premiere Pro, After Effects, CapCut, Canva
 - Content: Tech promos, event teasers, project showcases
 - Edited content for startups and campus fests
 
----
-
+  
 ###  Tech Stack
 - **Languages:** Dart · Python · JavaScript · C++
 - **Frontend:** Flutter
 - **Backend:** Node.js · Express
 - **Database:** MongoDB · Firebase
 - **Tools:** Git · GitHub · VS Code · Figma
-- **Creative:** Premiere Pro · After Effects · Canva · CapCut
+- **Creative:** Premiere Pro · After Effects · Canva · 
 
----
-
+  
 ###  Contact
 - ✉️ Email: vivekvishwakarma.dev@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/vivekvishwakarma-dev](https://www.linkedin.com/in/viveks21)
 
----
-
+  
 ### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Knights24&show_icons=true&hide_title=true&hide_rank=true&hide=issues&theme=default" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Knights24&theme=default" height="150" />
 </p>
-
----
-
 ###  Tech & Tools Badges (Dark Theme)
 <p align="center">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
@@ -62,7 +59,6 @@ Focused on building intelligent, real-world digital solutions
   <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white" />
 </p>
 
----
 
 ### Fun Fact
 > I don’t just code – I craft solutions, shape experiences, and tell visual stories with tech.
