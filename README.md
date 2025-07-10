@@ -1,6 +1,6 @@
 # Hi, I'm Vivek Vishwakarma
 
-**Aspiring AI/ML Engineer** · **Game Developer** · **Tech Dept. Head at ISTE SAL**  
+**Aspiring AI/ML Engineer** · **Web devloper** · **Tech Dept. Head at ISTE SAL**  
 Focused on building intelligent, real-world digital solutions
 
 
