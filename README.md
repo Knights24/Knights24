@@ -10,7 +10,7 @@ Focused on building intelligent, real-world digital solutions
 - Known for team leadership, innovative thinking & strong execution
 
   
-###  Technical & Creative Skills
+### Technical & Creative Skills
 
 #### Technical Lead
 - Leading college tech teams and hackathon squads
