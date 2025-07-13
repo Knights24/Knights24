@@ -19,7 +19,7 @@ Focused on building intelligent, real-world digital solutions
 
   
 ####  Video Editing & Media Production
-- Tools: Adobe Premiere Pro, After Effects, CapCut, Canva
+- Tools: Adobe Premiere Pro, After Effects, Canva
 - Content: Tech promos, event teasers, project showcases
 - Edited content for startups and campus fests
 
