@@ -30,7 +30,7 @@ Focused on building intelligent, real-world digital solutions
 - **Backend:** Node.js · Express
 - **Database:** MongoDB · Firebase
 - **Tools:** Git · GitHub · VS Code · Figma
-- **Creative:** Premiere Pro · After Effects · Canva · 
+- **Creative:** Premiere Pro · Canva 
 
   
 ###  Contact
