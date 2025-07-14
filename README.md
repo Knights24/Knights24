@@ -25,7 +25,7 @@ Focused on building intelligent, real-world digital solutions
 
   
 ###  Tech Stack
-- **Languages:** Dart · Python · JavaScript · C++
+- **Languages:** Dart · Python · JavaScript · C++ . java
 - **Frontend:** Flutter
 - **Backend:** Node.js · Express
 - **Database:** MongoDB · Firebase
