@@ -3,12 +3,6 @@
 **Aspiring AI/ML Engineer** · **Web devloper** · **Tech Dept. Head at ISTE SAL**  
 Focused on building intelligent, real-world digital solutions
 
-
-### About Me
-- Currently building **IntraKart** – a smart, real-time interior services app
-- Exploring intelligent assistants and automated systems
-- Known for team leadership, innovative thinking & strong execution
-
   
 ### Technical & Creative Skills
 
