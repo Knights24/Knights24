@@ -7,9 +7,3 @@
 
 </div>
 
----
-
-## 🎯 Student Profile & Learning Journey
-
-
-</div>
